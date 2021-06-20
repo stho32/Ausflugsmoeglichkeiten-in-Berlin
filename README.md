@@ -14,4 +14,5 @@ Meine Sammlung der Ausflugsmöglichkeiten in Berlin
 - E-Mails mit schlauen Leuten austauschen
 - Creative Programming / Open Source Programmieren
 - Sprache lernen
+- In der Stadtmitte herumgucken und eine der vielen Touristenattraktionen spontan besuchen
 
