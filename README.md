@@ -21,7 +21,7 @@ Meine Sammlung der Ausflugsmöglichkeiten in Berlin
 
 
 ## Outdoor
-^
+
 - Tierpark
 - Zoo
 
@@ -31,3 +31,8 @@ Meine Sammlung der Ausflugsmöglichkeiten in Berlin
 - mit Scooter durch die Gegend fahren
 - Spree rauf und runterlaufen
 - Hop-on / off Busfahrt in der Stadtmitte
+
+
+## Indoor + Outdoor
+
+- Schloß Charlottenburg + Park
