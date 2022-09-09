@@ -21,9 +21,13 @@ Meine Sammlung der Ausflugsmöglichkeiten in Berlin
 
 
 ## Outdoor
+^
+- Tierpark
+- Zoo
 
 - Tierpark
 - Zoo
 - herumliegen (Ort unterschiedlich)
 - mit Scooter durch die Gegend fahren
 - Spree rauf und runterlaufen
+- Hop-on / off Busfahrt in der Stadtmitte
